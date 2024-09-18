@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+    
+    padding-top: 30px;
+    color: grey;
+    gap: 15px;
+    font-size: 13px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.name:hover{
+    color: white;
+    text-decoration: underline;
+}
+.text:hover{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.navbar-nav{
+    cursor: pointer;
+}
